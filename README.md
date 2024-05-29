@@ -1,15 +1,15 @@
 # Aspiring NeuroAI researcher
 
-#### :wave: Hi! I'm Thuy (she/her). I'm passionate about multidisciplinary approaches to research and the intersection of neuroscience and artificial intelligence for socially beneficial applications.
+#### 👋 Hi! I'm Thuy (she/her). I'm passionate about multidisciplinary approaches to research and the intersection of neuroscience and artificial intelligence for socially beneficial applications.
 
 This page is currently under construction. Stay tuned :)
 
 ## Quick Facts
-- :house: I'm from Hanoi, Vietnam.
-- :round_pushpin: I'm currently studying in Montreal, Canada.
-- :airplane: I’ve also lived in Geneva, Stockholm, and Ottawa before finding my way to this lovely city!
-- :headphones: I love listening to music and making overly specific playlists.
-- :seedling: I'm still learning and growing. 
+- 🏠 I'm from Hanoi, Vietnam.
+- 📍 I'm currently studying in Montreal, Canada.
+- 🌎 I’ve also lived in Geneva, Stockholm, and Ottawa before finding my way to this lovely city!
+- 🎧 I love listening to music and making overly specific playlists.
+- 🌱 I'm still learning and growing. 
   
 
 ## Education
