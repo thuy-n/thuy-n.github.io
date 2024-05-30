@@ -8,7 +8,7 @@ This page is currently under construction. Stay tuned :)
 - 🏠 I'm from Hanoi, Vietnam.
 - 📍 I'm currently studying at McGill University in Montreal, Canada.
 - 🌎 I’ve also lived in Geneva, Stockholm, and Ottawa before finding my way to this lovely city!
-- 🎧 I love listening to music and making overly specific playlists.
+- 🎧 I love listening to music and making oddly specific playlists.
   
 ## What I'm Thinking About...
 - Using AI to bridge the gaps in science communication and make scientific research more accessible to the public.
