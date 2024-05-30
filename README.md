@@ -13,7 +13,7 @@ This page is currently under construction. Stay tuned :)
   
 ## What I'm Thinking About...
 - Using AI to bridge the gaps in science communication and make scientific research more accessible to the public.
-- Creating an open-access framework for analyzing brain response to visual stimuli by decomposing images into a low-dimensional feature space and aligning the stimulus features with a neural feature space.
+- Creating an open-access framework for analyzing brain responses to visual stimuli by decomposing images into a low-dimensional feature space and aligning the stimulus features with a neural feature space.
 - Addressing gender disparities in pharmaceuticals, focusing on detecting and analyzing biases to improve drug safety and personalized treatment for women and gender diverse people.
 - Democratizing AI ethics literacy and encouraging ethics by design. 
 - Establishing a Cognitive Science journal club for undergrads.
