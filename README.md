@@ -18,7 +18,7 @@ This page is currently under construction. Stay tuned :)
 - Democratizing AI ethics literacy and encouraging ethics by design 
 - Establishing a Cognitive Science journal club for undergrads.
 
-I would be to chat more about any of these!
+Happy to chat more about any of these!
 
 ## Education
 - **B.A. & Sc., Honours Cognitive Science @ McGill University (_Sep 2021 - May 2025_)**<br />
