@@ -11,6 +11,14 @@ This page is currently under construction. Stay tuned :)
 - 🎧 I love listening to music and making overly specific playlists.
 - 🌱 I'm still learning and growing. 
   
+## What I'm Thinking About...
+- Using AI to bridge the gaps in science communication and make scientific research more accessible to the public.
+- Creating an open-access framework for analyzing brain response to visual stimuli by decomposing images into a low-dimensional feature space and aligning the stimulus features with a neural feature space.
+- Address gender disparities in pharmaceuticals, focusing on detecting and analyzing biases to improve drug safety and personalized treatment for women and gender diverse people.
+- Democratizing AI ethics literacy and encouraging ethics by design 
+- Establishing a Cognitive Science journal club for undergrads.
+
+I would be to chat more about any of these!
 
 ## Education
 - **B.A. & Sc., Honours Cognitive Science @ McGill University (_Sep 2021 - May 2025_)**<br />
