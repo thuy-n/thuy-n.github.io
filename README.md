@@ -14,15 +14,15 @@ This page is currently under construction. Stay tuned :)
 ## What I'm Thinking About...
 - Using AI to bridge the gaps in science communication and make scientific research more accessible to the public.
 - Creating an open-access framework for analyzing brain response to visual stimuli by decomposing images into a low-dimensional feature space and aligning the stimulus features with a neural feature space.
-- Address gender disparities in pharmaceuticals, focusing on detecting and analyzing biases to improve drug safety and personalized treatment for women and gender diverse people.
-- Democratizing AI ethics literacy and encouraging ethics by design 
+- Addressing gender disparities in pharmaceuticals, focusing on detecting and analyzing biases to improve drug safety and personalized treatment for women and gender diverse people.
+- Democratizing AI ethics literacy and encouraging ethics by design. 
 - Establishing a Cognitive Science journal club for undergrads.
+- The shortcomings of our educational system, the mislabeling and inaccurate measurement of students' abilities, and the need for a reevaluation of the enduring lecture model that has defined traditional schooling.
 
 Happy to chat more about any of these!
 
 ## Education
-- **B.A. & Sc., Honours Cognitive Science @ McGill University (_Sep 2021 - May 2025_)**<br />
-Minor in International Development Studies.
+- **B.A. & Sc., Honours Cognitive Science, minor in International Development Studies @ McGill University (_Sep 2021 - May 2025_)**<br />
 
 ## Experience
 - **Machine Learning Trainee @ AI4Good Lab (_May 2024 - Present_)**<br />
