@@ -8,7 +8,7 @@ This page is currently under construction. Stay tuned :)
 - 🏠 I'm from Hanoi, Vietnam.
 - 📍 I'm currently studying at McGill University in Montreal, Canada.
 - 🌎 I’ve also lived in Geneva, Stockholm, and Ottawa before finding my way to this lovely city!
-- 🎓 I'm entering my final year of undergraduate studies at McGill University.
+- 🎧 I love listening to music and making overly specific playlists.
 - 🌱 I'm still learning and growing. 
   
 ## What I'm Thinking About...
