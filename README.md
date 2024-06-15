@@ -16,7 +16,7 @@ This page is currently under construction. Stay tuned :)
 - Creating an open-access framework for analyzing brain responses to visual stimuli by decomposing images into a low-dimensional feature space and aligning the stimulus features with a neural feature space.
 - Addressing gender disparities in pharmaceuticals and the historical underrepresentation of women in clinical trials, focusing on detecting and analyzing biases to improve drug safety.
 - Democratizing AI ethics literacy and encouraging ethics by design. 
-- Establishing a Cognitive Science journal club for undergrads.
+- Organizing a large-scale Undergraduate Cognitive Science Conference and establishing a journal club for undergrads.
 - The shortcomings of our educational system, the mislabeling and inaccurate measurement of students' abilities, and the need for a reevaluation of the enduring lecture model that has defined traditional schooling.
 
 Happy to chat more about any of these!
